@@ -1,2 +1,2 @@
 import './styles.css';
-import './js/ymaps.js'
+import './js/ymaps.js';
